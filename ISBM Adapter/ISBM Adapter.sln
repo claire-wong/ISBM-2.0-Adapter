@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBM Adapter", "ISBM Adapter\ISBM Adapter.csproj", "{4168E428-CBA0-4709-A8B7-486E20EBFE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4168E428-CBA0-4709-A8B7-486E20EBFE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4168E428-CBA0-4709-A8B7-486E20EBFE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4168E428-CBA0-4709-A8B7-486E20EBFE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4168E428-CBA0-4709-A8B7-486E20EBFE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F081FE-8985-476D-9372-1349992210B3}
+	EndGlobalSection
+EndGlobal
