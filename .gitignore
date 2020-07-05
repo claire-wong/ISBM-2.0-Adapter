@@ -533,3 +533,6 @@ ISBM Adapter/ISBM Adapter/obj/Release/TransformWebConfig/original/Web.config
 ISBM Adapter/ISBM Adapter/obj/Release/TransformWebConfig/transformed/Web.config
 ISBM Adapter/ISBM Adapter/Properties/PublishProfiles/CustomProfile.pubxml
 ISBM Adapter/ISBM Adapter/Properties/PublishProfiles/CustomProfile.pubxml.user
+ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.dll
+ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.xml
+ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Diagnostics.DiagnosticSource.dll
