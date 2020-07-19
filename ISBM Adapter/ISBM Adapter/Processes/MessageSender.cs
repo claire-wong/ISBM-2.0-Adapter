@@ -1,4 +1,14 @@
-﻿using System;
+﻿/* Purpose: Send message to service bus
+ *          
+ * Author: Claire Wong
+ * Date Created:  2020/05/12
+ * 
+ * (c) 2020
+ * This code is licensed under MIT license
+ * 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,13 +24,15 @@ namespace ISBM_Adapter.Processes
         {
 
             // Create topic client
-            // GOT AN ISSUE HERE JJI FEDGSIZ
             TopicClient myTopicClient = new TopicClient(ServiceBusConnectionString, TopicName);
 
-            // Create a new message to send to the topic.
-            string messageBody = body;
-            var message = new Message(Encoding.UTF8.GetBytes(messageBody));
+            //Create Azure Bus brokered message with the message text coverted into
+            //byte array using UTF8 enconding
+            var message = new Message(Encoding.UTF8.GetBytes(body));
+
+            //Set assigned message id
             message.MessageId = messageId;
+
             // Send the message to the topic.
             myTopicClient.SendAsync(message).Wait();
 
