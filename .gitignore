@@ -536,10 +536,7 @@ ISBM Adapter/ISBM Adapter/Properties/PublishProfiles/CustomProfile.pubxml.user
 ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.dll
 ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.xml
 ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Diagnostics.DiagnosticSource.dll
-<<<<<<< HEAD
 ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/storage.ide-shm
 ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/storage.ide-wal
 
 ISBM Adapter/ISBM Adapter/Web.config
-=======
->>>>>>> parent of dd86e12... Add Code Comments and Sample ISBM Database

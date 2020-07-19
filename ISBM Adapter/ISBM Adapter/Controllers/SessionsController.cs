@@ -1,4 +1,14 @@
-﻿using System;
+﻿/* Purpose: Restful API routes for ISBM session operations
+ * 
+ * Author: Claire Wong
+ * Date Created:  2020/04/23
+ * 
+ * (c) 2020
+ * This code is licensed under MIT license
+ * 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -102,4 +112,5 @@ namespace ISBM_Adapter.Controllers
         }
 
     }
+
 }
