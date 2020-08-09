@@ -555,3 +555,5 @@ ISBM Adapter/packages/Swashbuckle.Core.5.6.0/Swashbuckle.Core.5.6.0.nupkg
 ISBM Adapter/packages/WebActivatorEx.2.0/.signature.p7s
 ISBM Adapter/packages/WebActivatorEx.2.0/lib/net40/WebActivatorEx.dll
 ISBM Adapter/packages/WebActivatorEx.2.0/WebActivatorEx.2.0.nupkg
+ISBM Adapter/ISBM Adapter/bin/Swashbuckle.Core.dll
+ISBM Adapter/ISBM Adapter/bin/WebActivatorEx.dll
