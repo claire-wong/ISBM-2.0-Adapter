@@ -15,6 +15,9 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Text;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+
 using ISBM_Adapter.Processes;
 
 namespace ISBM_Adapter.Controllers
@@ -49,10 +52,10 @@ namespace ISBM_Adapter.Controllers
         //---------------------------------------------------------------------
         [Route("isbm/2.0/channels")]
         [HttpPost]
-        public HttpResponseMessage CreateChannel(HttpRequestMessage request) 
+        public HttpResponseMessage CreateChannel([FromBody] JObject bodBody) 
         {
             //Get HTTP request content 
-            string body = request.Content.ReadAsStringAsync().Result;
+            string body = bodBody.ToString(Formatting.None);
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";
@@ -119,10 +122,10 @@ namespace ISBM_Adapter.Controllers
         //---------------------------------------------------------------------
         [Route("isbm/2.0/channels/{channelId}/publication-sessions")]
         [HttpPost]
-        public HttpResponseMessage OpenProviderPublicationSession(string channelId, HttpRequestMessage request)
+        public HttpResponseMessage OpenProviderPublicationSession(string channelId)
         {
             //Get HTTP request content 
-            string body = request.Content.ReadAsStringAsync().Result;
+            //string body = request.Content.ReadAsStringAsync().Result;
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";
@@ -131,7 +134,7 @@ namespace ISBM_Adapter.Controllers
             //Create a new ISBMHandler
             ISBMHandler myISBMHandler = new ISBMHandler();
             //Use OpenProviderPublicationSession method
-            myISBMHandler.OpenProviderPublicationSession(channelId, body, ref responseContent, ref statusCode, ref reasonPhrase);
+            myISBMHandler.OpenProviderPublicationSession(channelId, ref responseContent, ref statusCode, ref reasonPhrase);
 
             HttpResponseMessage response = new HttpResponseMessage(statusCode);
             response.ReasonPhrase = reasonPhrase;
@@ -145,10 +148,10 @@ namespace ISBM_Adapter.Controllers
         //---------------------------------------------------------------------
         [Route("isbm/2.0/channels/{channelId}/subscription-sessions")]
         [HttpPost]
-        public HttpResponseMessage OpenConsumerSubscriptionSession(string channelId, HttpRequestMessage request)
+        public HttpResponseMessage OpenConsumerSubscriptionSession(string channelId, [FromBody] JObject bodBody)
         {
             //Get HTTP request content 
-            string body = request.Content.ReadAsStringAsync().Result;
+            string body = bodBody.ToString(Formatting.None);
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";

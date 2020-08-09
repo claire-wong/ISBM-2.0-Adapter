@@ -15,6 +15,8 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Text;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using ISBM_Adapter.Processes;
 
 namespace ISBM_Adapter.Controllers
@@ -48,10 +50,10 @@ namespace ISBM_Adapter.Controllers
         //---------------------------------------------------------------------
         [Route("isbm/2.0/sessions/{sessionId}/publications")]
         [HttpPost]
-        public HttpResponseMessage PostPublicationMessage(string sessionId, HttpRequestMessage request)
+        public HttpResponseMessage PostPublicationMessage(string sessionId, [FromBody] JObject bodBody)
         {
 
-            string body = request.Content.ReadAsStringAsync().Result;
+            string body = bodBody.ToString(Formatting.None);
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";

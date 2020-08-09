@@ -49,7 +49,7 @@ namespace ISBM_Adapter.Processes
             bool isTopicExists = task.Result;
 
             //Skip deleting topic if it doesn’t exist
-            if (isTopicExists != true)
+            if (isTopicExists == true)
             {
                 //Delete topic
                 myManagementClient.DeleteTopicAsync(TopicName).Wait();

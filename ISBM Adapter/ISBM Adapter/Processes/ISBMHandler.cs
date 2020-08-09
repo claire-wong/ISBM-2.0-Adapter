@@ -140,14 +140,14 @@ namespace ISBM_Adapter.Processes
         }
 
         //Opens a publication session for a channel.
-        public void OpenProviderPublicationSession(string channelId, string body, ref string responseContent, ref HttpStatusCode statusCode, ref string reasonPhrase)
+        public void OpenProviderPublicationSession(string channelId, ref string responseContent, ref HttpStatusCode statusCode, ref string reasonPhrase)
         {
 
             try
-            { 
-                //Repace URL enconding charactors
-                channelId = channelId.Replace(@"%2F", "/");
-
+            {
+                //Repace percent enconding charactors
+                channelId = System.Uri.UnescapeDataString(channelId);
+               
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
 
@@ -220,8 +220,8 @@ namespace ISBM_Adapter.Processes
 
             try
             {
-                //Repace URL enconding charactors
-                channelId = channelId.Replace(@"%2F", "/");
+                //Repace percent enconding charactors
+                channelId = System.Uri.UnescapeDataString(channelId);
 
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
@@ -317,8 +317,8 @@ namespace ISBM_Adapter.Processes
         {
             try
             {
-                //Repace URL enconding charactors
-                channelId = channelId.Replace(@"%2F", "/");
+                //Repace percent enconding charactors
+                channelId = System.Uri.UnescapeDataString(channelId);
 
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
@@ -334,13 +334,15 @@ namespace ISBM_Adapter.Processes
                     sqlStatement = "Delete from Channels where Channel_Id = '" + channelId + "'";
                     myDatabaseHandler.Delete(sqlStatement);
 
+                    string channelUUID = channelDataset.Tables[0].Rows[0]["Channel_UUID"].ToString();
+
                     //Get Azure Bus SAS token string from Web.Config
                     string ServiceBusConnectionString = ConfigurationManager.ConnectionStrings["AzureBus"].ConnectionString;
                     //Create a new Azure Management
                     AzureManagement myAzureManagement = new AzureManagement();
                     //Delete the Azure Bus topic in the form of UUID corresponding to channel record
                     //ISBM channels are mapped to Azure Bus topics
-                    myAzureManagement.DeleteTopic(ServiceBusConnectionString, channelId);
+                    myAzureManagement.DeleteTopic(ServiceBusConnectionString, channelUUID);
 
                     //Set HTTP status code and reason phrase
                     //2xx for success
