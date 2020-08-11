@@ -1,0 +1,61 @@
+{
+	"topics": [
+		"OIIE:S30:V1.1/CCOM-JSON:SyncMeasurements:V1.0"
+	],
+	"messageContent": {
+		"mediaType": "application/json",
+		"content": {
+			"$schema": "http://www.mimosa.org/ccom4/BOD/SyncMeasurements.json",
+			"syncMeasurements": {
+				"releaseID": "9.0",
+				"versionID": "1.0",
+				"applicationArea": {
+					"sender": {
+						"logicalID": "19a137cf-a70d-2888-343a-bc1158bf7f9f"
+					},
+					"creationDateTime": "2020-08-10T20:29:58Z",
+					"bODID": "e91683d1-fe81-4878-b8db-765301dc1ba8"
+				},
+				"dataArea": {
+					"sync": {},
+					"measurements": [
+						{
+							"measurementLocation": {
+								"UUID": "e015177c-8281-576b-56a9-87c16c3d91cc",
+								"ShortName": "Temp. Loc. 1",
+								"infoSource": {
+									"UUID": "19a137cf-a70d-2888-343a-bc1158bf7f9f"
+								}
+							},
+							"measurement": [
+								{
+									"@@type": "SingleDataMeasurement",
+									"UUID": "611ee2af-12d5-5cec-578c-160c9aeb5118",
+									"recorded": {
+										"dateTime": "2020-08-10T20:29:58Z"
+									},
+									"infoSource": {
+										"UUID": "19a137cf-a70d-2888-343a-bc1158bf7f9f"
+									},
+									"data": {
+										"measure": {
+											"value": "55.82",
+											"UnitOfMeasure": {
+												"UUID": "3912c639-8c27-4b29-868b-a0f01790770f",
+												"ShortName": "Degrees Celsius",
+												"InfoSource": {
+													"UUID": "cf3f3a8a-1e42-4f15-9288-9cf2241e163d"
+												}
+											}
+										}
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		}
+	},
+	"expiry": "P1D"
+}
