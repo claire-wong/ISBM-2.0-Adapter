@@ -451,9 +451,6 @@ namespace ISBM_Adapter.Processes
 
             try
             {
-                //Repace URL enconding charactors
-                sessionId = sessionId.Replace(@"%2F", "/");
-
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
 
@@ -538,9 +535,6 @@ namespace ISBM_Adapter.Processes
         {
             try
             {
-                //Repace URL enconding charactors
-                sessionId = sessionId.Replace(@"%2F", "/");
-
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
 
@@ -621,9 +615,6 @@ namespace ISBM_Adapter.Processes
         {
             try
             {
-                //Repace URL enconding charactors
-                sessionId = sessionId.Replace(@"%2F", "/");
-
                 //Create a new Database Handler
                 DatabaseHandler myDatabaseHandler = new DatabaseHandler();
 
