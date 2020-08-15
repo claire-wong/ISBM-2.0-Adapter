@@ -1,4 +1,4 @@
-﻿/* Purpose: Read and delete from service bus
+﻿/* Purpose: To read and delete from service bus
  *          
  * Author: Claire Wong
  * Date Created:  2020/05/15
@@ -23,36 +23,36 @@ namespace ISBM_Adapter.Processes
     {
         static MessagingFactory Factory;
 
-        //Read the first published message from service bus subscription 
+        // Read the first published message from service bus subscription 
         public string ReadFirstPublishedMessage(string ServiceBusConnectionString, string TopicName, string SubscriptionName, ref long messageCount)
         {
-            //Create service Bus namespace manager
+            // Create service Bus namespace manager
             var namespaceManager = NamespaceManager.CreateFromConnectionString(ServiceBusConnectionString);
-            //Get subscrition information of the topic
+            // Get subscrition information of the topic
             var subscriptionDesc = namespaceManager.GetSubscription(TopicName, SubscriptionName);
-            //Check number of published messages
+            // Check number of published messages
             messageCount = subscriptionDesc.MessageCount;
 
-            //Skip reading message if none exists
+            // Skip reading message if none exists
             if (messageCount != 0)
             {
-                //Create service bus messageing factory
+                // Create service bus messageing factory
                 Factory = MessagingFactory.CreateFromConnectionString(ServiceBusConnectionString);
-                //Create subscription client for the topic
+                // Create subscription client for the topic
                 SubscriptionClient mySubscriptionClient = Factory.CreateSubscriptionClient(TopicName, SubscriptionName);
 
-                //Get first broker message from the subscription.
-                //Use Peek function to keep the brokerd message in the subscription
+                // Get first broker message from the subscription.
+                // Use Peek function to keep the brokerd message in the subscription
                 BrokeredMessage MessageReceived = mySubscriptionClient.Peek();
 
-                //Retrieve message body as a stream object
+                // Retrieve message body as a stream object
                 Stream myMessage = MessageReceived.GetBody<Stream>();
-                //Convert the steam object into a byte array
+                // Convert the stream object into a byte array
                 Byte[] ByteData = StreamToByteArray(myMessage);
-                //Convert UTF8 encoded byte array into message text  
+                // Convert UTF8 encoded byte array into message text  
                 string strData = Encoding.UTF8.GetString(ByteData);
 
-                //Clean up
+                // Clean up
                 MessageReceived.Dispose();
                 mySubscriptionClient.Close();
                
@@ -64,30 +64,30 @@ namespace ISBM_Adapter.Processes
             return "";
         }
 
-        //Delete the first published message from service bus subscription 
+        // Delete the first published message from service bus subscription 
         public void RemoveFirstPublishedMessage(string ServiceBusConnectionString, string TopicName, string SubscriptionName)
         {
-            //Create service Bus namespace manager
+            // Create service Bus namespace manager
             var namespaceManager = NamespaceManager.CreateFromConnectionString(ServiceBusConnectionString);
-            //Get subscrition information of the topic
+            // Get subscrition information of the topic
             var subscriptionDesc = namespaceManager.GetSubscription(TopicName, SubscriptionName);
-            //Check number of published messages
+            // Check number of published messages
             long messageCount = subscriptionDesc.MessageCount;
 
-            //Skip removing message if none exists
+            // Skip removing message if none exists
             if (messageCount != 0)
             {
-                //Create service bus messageing factory
+                // Create service bus messageing factory
                 Factory = MessagingFactory.CreateFromConnectionString(ServiceBusConnectionString);
-                //Create subscription client for the topic
+                // Create subscription client for the topic
                 SubscriptionClient mySubscriptionClient = Factory.CreateSubscriptionClient(TopicName, SubscriptionName);
 
-                //Get first broker message from the subscription.
-                //Use Receive function
+                // Get first broker message from the subscription.
+                // Use Receive function
                 BrokeredMessage MessageReceived = mySubscriptionClient.Receive();
 
-                //Use lock token of the received brokered meeage to mark the message is completed.
-                //The message will be removed from the subscription
+                // Use lock token of the received brokered message to mark the message is completed.
+                // The message will be removed from the subscription
                 mySubscriptionClient.Complete(MessageReceived.LockToken);
 
                 //Clean up
@@ -96,7 +96,7 @@ namespace ISBM_Adapter.Processes
             }
         }
 
-        //Convert stream to byte array
+        // Convert stream to byte array
         public static byte[] StreamToByteArray(Stream myMessage)
         {
             byte[] bytes = new byte[myMessage.Length];

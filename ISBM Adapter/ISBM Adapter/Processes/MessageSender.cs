@@ -1,4 +1,4 @@
-﻿/* Purpose: Send message to service bus
+﻿/* Purpose: Send messages to service bus
  *          
  * Author: Claire Wong
  * Date Created:  2020/05/12
@@ -26,10 +26,10 @@ namespace ISBM_Adapter.Processes
             // Create topic client
             TopicClient myTopicClient = new TopicClient(ServiceBusConnectionString, TopicName);
 
-            //Create Azure Bus brokered message with the message text encoded in UTF8
+            // Create Azure Bus brokered message with the message text encoded in UTF8
             var message = new Message(Encoding.UTF8.GetBytes(body));
 
-            //Set assigned message id
+            // Set assigned message id
             message.MessageId = messageId;
 
             // Send the message to the topic.

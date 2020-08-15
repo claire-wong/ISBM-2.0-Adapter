@@ -48,22 +48,22 @@ namespace ISBM_Adapter.Controllers
         }
 
         // ChannelManagement
-        // Create a new channel with the specified URI path fragment.
+        // Create a new channel with specified URI path fragment.
         //---------------------------------------------------------------------
         [Route("isbm/2.0/channels")]
         [HttpPost]
         public HttpResponseMessage CreateChannel([FromBody] JObject bodBody) 
         {
-            //Get HTTP request content 
+            // Get HTTP request content 
             string body = bodBody.ToString(Formatting.None);
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";
             string responseContent = "";
 
-            //Create a new ISBMHandler
+            // Create a new ISBMHandler
             ISBMHandler myISBMHandler = new ISBMHandler();
-            //Use CreateChannel method
+            // Use CreateChannel method
             myISBMHandler.CreateChannel(body, ref responseContent, ref statusCode, ref reasonPhrase);
 
             HttpResponseMessage response = new HttpResponseMessage(statusCode);
@@ -72,26 +72,6 @@ namespace ISBM_Adapter.Controllers
 
             return response;
         }
-
-        //TO BE IMPlEMENTED!!!
-
-        // ChannelManagement
-        // Retreieve the Channel identified by 'channel-id'
-        //---------------------------------------------------------------------
-        //[Route("isbm/2.0/channels/{channelId}")]
-        //[HttpGet]
-        //public HttpResponseMessage GetChannel(string channelId)
-        //{
-        //    HttpStatusCode statusCode = HttpStatusCode.OK;
-        //    string reasonPhrase = "";
-        //    string responseContent = "";
-
-        //    HttpResponseMessage response = new HttpResponseMessage(statusCode);
-        //    response.ReasonPhrase = reasonPhrase;
-        //    response.Content = new StringContent(responseContent, Encoding.UTF8, "application/json");
-
-        //    return response;
-        //}
 
         // ChannelManagement
         // Delete the Channel identified by 'channel-id'
@@ -105,9 +85,9 @@ namespace ISBM_Adapter.Controllers
             string reasonPhrase = "";
             string responseContent = "";
 
-            //Create a new ISBMHandler
+            // Create a new ISBMHandler
             ISBMHandler myISBMHandler = new ISBMHandler();
-            //Use DeleteChannel method
+            // Use DeleteChannel method
             myISBMHandler.DeleteChannel(channelId, ref responseContent, ref statusCode, ref reasonPhrase);
 
             HttpResponseMessage response = new HttpResponseMessage(statusCode);
@@ -124,16 +104,16 @@ namespace ISBM_Adapter.Controllers
         [HttpPost]
         public HttpResponseMessage OpenProviderPublicationSession(string channelId)
         {
-            //Get HTTP request content 
-            //string body = request.Content.ReadAsStringAsync().Result;
+            // Get HTTP request content 
+            // string body = request.Content.ReadAsStringAsync().Result;
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";
             string responseContent = "";
 
-            //Create a new ISBMHandler
+            // Create a new ISBMHandler
             ISBMHandler myISBMHandler = new ISBMHandler();
-            //Use OpenProviderPublicationSession method
+            // Use OpenProviderPublicationSession method
             myISBMHandler.OpenProviderPublicationSession(channelId, ref responseContent, ref statusCode, ref reasonPhrase);
 
             HttpResponseMessage response = new HttpResponseMessage(statusCode);
@@ -143,23 +123,23 @@ namespace ISBM_Adapter.Controllers
             return response;
         }
 
-        //ConsumerPublicationService
-        //Opens a subscription session for a channel
+        // ConsumerPublicationService
+        // Opens a subscription session for a channel
         //---------------------------------------------------------------------
         [Route("isbm/2.0/channels/{channelId}/subscription-sessions")]
         [HttpPost]
         public HttpResponseMessage OpenConsumerSubscriptionSession(string channelId, [FromBody] JObject bodBody)
         {
-            //Get HTTP request content 
+            // Get HTTP request content 
             string body = bodBody.ToString(Formatting.None);
 
             HttpStatusCode statusCode = HttpStatusCode.OK;
             string reasonPhrase = "";
             string responseContent = "";
 
-            //Create a new ISBMHandler
+            // Create a new ISBMHandler
             ISBMHandler myISBMHandler = new ISBMHandler();
-            //Use OpenConsumerPublicationSession method
+            // Use OpenConsumerPublicationSession method
             myISBMHandler.OpenConsumerPublicationSession(channelId, body, ref responseContent, ref statusCode, ref reasonPhrase);
 
             HttpResponseMessage response = new HttpResponseMessage(statusCode);
