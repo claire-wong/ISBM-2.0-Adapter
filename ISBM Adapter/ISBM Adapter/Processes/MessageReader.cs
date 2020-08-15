@@ -49,7 +49,7 @@ namespace ISBM_Adapter.Processes
                 Stream myMessage = MessageReceived.GetBody<Stream>();
                 //Convert the steam object into a byte array
                 Byte[] ByteData = StreamToByteArray(myMessage);
-                //Convert byte array into message text by using UTF8 encoding  
+                //Convert UTF8 encoded byte array into message text  
                 string strData = Encoding.UTF8.GetString(ByteData);
 
                 //Clean up

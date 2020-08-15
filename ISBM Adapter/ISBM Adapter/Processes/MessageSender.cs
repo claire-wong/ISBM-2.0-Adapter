@@ -26,8 +26,7 @@ namespace ISBM_Adapter.Processes
             // Create topic client
             TopicClient myTopicClient = new TopicClient(ServiceBusConnectionString, TopicName);
 
-            //Create Azure Bus brokered message with the message text coverted into
-            //byte array using UTF8 enconding
+            //Create Azure Bus brokered message with the message text encoded in UTF8
             var message = new Message(Encoding.UTF8.GetBytes(body));
 
             //Set assigned message id
