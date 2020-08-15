@@ -4,7 +4,7 @@ Proof of concept using open standards to create a universal data adapter for IoT
 
 ### Objectives
 
-To build a messaging adapter allows all the IoT devices to send and receive messages just using ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
+To build a messaging adapter allows all the IoT devices to send and receive messages just using the ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
 
 ### Project Information
 
@@ -15,6 +15,7 @@ To build a messaging adapter allows all the IoT devices to send and receive mess
      2.  Microsoft SQL Server Express 2017
      3.  SQL Server Management Studio
      4.  Microsoft Azure Service Bus
+     5.  My brain's limited knowledge lol
      
 #### Dependencies
      1.  .Net Framework 4.7.2
