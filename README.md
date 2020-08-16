@@ -19,12 +19,12 @@ To build a messaging adapter allows all the IoT devices to send and receive mess
      
 #### Dependencies
      1.  .Net Framework 4.7.2
-     2.  Microsoft.ServiveBus v4.0.30319 *
-     3.  Microsoft.Azure.ServiceBus v4.0.30319 *
-     4.  NewtonSoft v4.0.30319 *
-     5.  Swashbukle.Core v4.0.30319 *
+     2.  Microsoft.ServiveBus v4.0.30319 @
+     3.  Microsoft.Azure.ServiceBus v4.0.30319 @
+     4.  NewtonSoft v4.0.30319 @
+     5.  Swashbukle.Core v4.0.30319 @
  
-* NuGet Packages
+@ NuGet Packages
 
 ### Useful Links
 
