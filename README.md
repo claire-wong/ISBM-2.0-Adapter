@@ -34,8 +34,9 @@ https://www.mimosa.org/mimosa-ccom/
 
 https://visualstudio.microsoft.com/downloads/
 
-https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal
 * I use a $10/month Standard service 
+
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal
 
 https://www.microsoft.com/en-us/download/details.aspx?id=55994
 
