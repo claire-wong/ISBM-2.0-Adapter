@@ -1,10 +1,10 @@
-# ISBM-2.0-Adapter
+# ISBM-2.0-Server-Adapter
 
-Proof of concept using open standards to create a universal data adapter for IoT devices. 
+Proof of concept using open standards to create a universal server adapter to handle service bus communication using ISBM 2.0. 
 
 ### Objectives
 
-To build a messaging adapter allows all the IoT devices to send and receive messages just using the ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
+To build a messaging adapter allows all the Iot devices to send and receive messages just using the ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
 
 ### Project Information
 
