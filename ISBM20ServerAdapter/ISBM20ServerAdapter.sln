@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29001.49
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBM Adapter", "ISBM Adapter\ISBM Adapter.csproj", "{4168E428-CBA0-4709-A8B7-486E20EBFE87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBM20ServerAdapter", "ISBM20ServerAdapter\ISBM20ServerAdapter.csproj", "{4168E428-CBA0-4709-A8B7-486E20EBFE87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
