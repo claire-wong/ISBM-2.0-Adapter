@@ -89,5 +89,18 @@ namespace ISBM_Adapter.Processes
                 myManagementClient.DeleteSubscriptionAsync(TopicName, SubscriptionName).Wait();
             }
         }
+
+        // Check if Azure Service Bus topic exists
+        public bool TopicExists(string ServiceBusConnectionString, string TopicName)
+        {
+            ManagementClient myManagementClient = new ManagementClient(ServiceBusConnectionString);
+
+            // Check if the topic already exists
+            var task = myManagementClient.TopicExistsAsync(TopicName);
+            task.Wait();
+            bool isTopicExists = task.Result;
+
+            return isTopicExists;
+        }
     }
 }

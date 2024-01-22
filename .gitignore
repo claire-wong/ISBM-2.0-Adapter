@@ -1,559 +1,417 @@
 
-ISBM Adapter/.vs/ISBM Adapter/config/applicationhost.config
-ISBM Adapter/.vs/ISBM Adapter/v16/.suo
-ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/db.lock
-ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/storage.ide
-ISBM Adapter/ISBM Adapter/bin/Antlr3.Runtime.dll
-ISBM Adapter/ISBM Adapter/bin/Antlr3.Runtime.pdb
-ISBM Adapter/ISBM Adapter/bin/ISBM Adapter.dll
-ISBM Adapter/ISBM Adapter/bin/ISBM Adapter.dll.config
-ISBM Adapter/ISBM Adapter/bin/ISBM Adapter.pdb
-ISBM Adapter/ISBM Adapter/bin/Microsoft.Azure.Services.AppAuthentication.xml
-ISBM Adapter/ISBM Adapter/bin/Microsoft.Azure.Services.AppAuthentication.dll
-ISBM Adapter/ISBM Adapter/bin/Microsoft.Azure.ServiceBus.dll
-ISBM Adapter/ISBM Adapter/bin/Microsoft.Azure.Amqp.dll
-ISBM Adapter/ISBM Adapter/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-ISBM Adapter/ISBM Adapter/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-ISBM Adapter/ISBM Adapter/bin/Microsoft.ServiceBus.dll
-ISBM Adapter/ISBM Adapter/bin/Microsoft.ServiceBus.xml
-ISBM Adapter/ISBM Adapter/bin/Microsoft.Web.Infrastructure.dll
-ISBM Adapter/ISBM Adapter/bin/Newtonsoft.Json.dll
-ISBM Adapter/ISBM Adapter/bin/Newtonsoft.Json.xml
-ISBM Adapter/ISBM Adapter/bin/roslyn/csc.exe
-ISBM Adapter/ISBM Adapter/bin/roslyn/csc.exe.config
-ISBM Adapter/ISBM Adapter/bin/roslyn/csc.rsp
-ISBM Adapter/ISBM Adapter/bin/roslyn/csi.exe
-ISBM Adapter/ISBM Adapter/bin/roslyn/csi.exe.config
-ISBM Adapter/ISBM Adapter/bin/roslyn/csi.rsp
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CodeAnalysis.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.CSharp.Core.targets
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.Managed.Core.targets
-ISBM Adapter/ISBM Adapter/bin/roslyn/Microsoft.VisualBasic.Core.targets
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.AppContext.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Collections.Immutable.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Console.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Diagnostics.StackTrace.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.IO.Compression.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.IO.FileSystem.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.IO.FileSystem.Primitives.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.IO.Pipes.AccessControl.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.IO.Pipes.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Reflection.Metadata.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.AccessControl.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Claims.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Cryptography.Encoding.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Cryptography.Primitives.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Security.Principal.Windows.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Text.Encoding.CodePages.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.ValueTuple.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Xml.ReaderWriter.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Xml.XmlDocument.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Xml.XPath.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/System.Xml.XPath.XDocument.dll
-ISBM Adapter/ISBM Adapter/bin/roslyn/vbc.exe
-ISBM Adapter/ISBM Adapter/bin/roslyn/vbc.exe.config
-ISBM Adapter/ISBM Adapter/bin/roslyn/vbc.rsp
-ISBM Adapter/ISBM Adapter/bin/roslyn/VBCSCompiler.exe
-ISBM Adapter/ISBM Adapter/bin/roslyn/VBCSCompiler.exe.config
-ISBM Adapter/ISBM Adapter/bin/System.Net.Http.Formatting.dll
-ISBM Adapter/ISBM Adapter/bin/System.Net.Http.Formatting.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Helpers.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Helpers.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Http.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Http.WebHost.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Http.WebHost.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Http.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Mvc.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Mvc.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Optimization.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Optimization.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.Razor.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.Razor.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.Deployment.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.Deployment.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.Razor.dll
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.Razor.xml
-ISBM Adapter/ISBM Adapter/bin/System.Web.WebPages.xml
-ISBM Adapter/ISBM Adapter/bin/WebGrease.dll
-ISBM Adapter/packages/Antlr.3.5.0.2/Antlr.3.5.0.2.nupkg
-ISBM Adapter/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll
-ISBM Adapter/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.pdb
-ISBM Adapter/packages/bootstrap.3.4.1/.signature.p7s
-ISBM Adapter/packages/bootstrap.3.4.1/bootstrap.3.4.1.nupkg
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap.css
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css
-ISBM Adapter/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.eot
-ISBM Adapter/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.svg
-ISBM Adapter/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.ttf
-ISBM Adapter/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff
-ISBM Adapter/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff2
-ISBM Adapter/packages/bootstrap.3.4.1/content/Scripts/bootstrap.js
-ISBM Adapter/packages/bootstrap.3.4.1/content/Scripts/bootstrap.min.js
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css.map
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.eot
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.svg
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.ttf
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff2
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.js
-ISBM Adapter/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.min.js
-ISBM Adapter/packages/bootstrap.3.4.1/LICENSE.txt
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1-vsdoc.js
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.js
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.js
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.map
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.js
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.js
-ISBM Adapter/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.map
-ISBM Adapter/packages/jQuery.3.3.1/jQuery.3.3.1.nupkg
-ISBM Adapter/packages/jQuery.3.3.1/Tools/common.ps1
-ISBM Adapter/packages/jQuery.3.3.1/Tools/install.ps1
-ISBM Adapter/packages/jQuery.3.3.1/Tools/jquery-3.3.1.intellisense.js
-ISBM Adapter/packages/jQuery.3.3.1/Tools/uninstall.ps1
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.install.xdt
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.dll
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.xml
-ISBM Adapter/packages/Microsoft.AspNet.Mvc.5.2.7/Microsoft.AspNet.Mvc.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.Razor.3.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.dll
-ISBM Adapter/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.xml
-ISBM Adapter/packages/Microsoft.AspNet.Razor.3.2.7/Microsoft.AspNet.Razor.3.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll
-ISBM Adapter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml
-ISBM Adapter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.5.2.7/Microsoft.AspNet.WebApi.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Client.5.2.7/Microsoft.AspNet.WebApi.Client.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Core.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Core.5.2.7/Content/web.config.transform
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.Core.5.2.7/Microsoft.AspNet.WebApi.Core.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ApiDescriptionExtensions.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/App_Start/HelpPageConfig.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Controllers/HelpController.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPage.css.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPageAreaRegistration.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPageConfigurationExtensions.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/CollectionModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ComplexTypeModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/DictionaryModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/EnumTypeModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/EnumValueDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/IModelDocumentationProvider.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/KeyValuePairModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelDescriptionGenerator.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelNameAttribute.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelNameHelper.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ParameterAnnotation.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ParameterDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/SimpleTypeModelDescription.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Models/HelpPageApiModel.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleGenerator.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleKey.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/ImageSample.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/InvalidSample.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/ObjectGenerator.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/SampleDirection.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/TextSample.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/_ViewStart.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/Api.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/Index.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/ResourceModel.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Shared/_Layout.cshtml.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Web.config
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/XmlDocumentationProvider.cs.pp
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Microsoft.AspNet.WebApi.HelpPage.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/lib/net45/System.Web.Http.WebHost.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/lib/net45/System.Web.Http.WebHost.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/Microsoft.AspNet.WebApi.WebHost.5.2.7.nupkg
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/.signature.p7s
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.install.xdt
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.dll
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.xml
-ISBM Adapter/packages/Microsoft.AspNet.WebPages.3.2.7/Microsoft.AspNet.WebPages.3.2.7.nupkg
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/.signature.p7s
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/monoandroid/Microsoft.Azure.Amqp.dll
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/net45/Microsoft.Azure.Amqp.dll
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/netstandard1.3/Microsoft.Azure.Amqp.dll
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Microsoft.Azure.Amqp.dll
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/uap10.0/Microsoft.Azure.Amqp.dll
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/lib/uap10.0/Microsoft.Azure.Amqp.pri
-ISBM Adapter/packages/Microsoft.Azure.Amqp.2.4.2/Microsoft.Azure.Amqp.2.4.2.nupkg
-ISBM Adapter/packages/Microsoft.Azure.ServiceBus.4.1.1/.signature.p7s
-ISBM Adapter/packages/Microsoft.Azure.ServiceBus.4.1.1/lib/netstandard2.0/Microsoft.Azure.ServiceBus.dll
-ISBM Adapter/packages/Microsoft.Azure.ServiceBus.4.1.1/Microsoft.Azure.ServiceBus.4.1.1.nupkg
-ISBM Adapter/packages/Microsoft.Azure.ServiceBus.4.1.1/pkgicon.png
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/.signature.p7s
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/build/Microsoft.Azure.Services.AppAuthentication.targets
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.dll
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.runtimeconfig.json
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.xml
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.dll
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.runtimeconfig.json
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.xml
-ISBM Adapter/packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/Microsoft.Azure.Services.AppAuthentication.1.0.3.nupkg
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/.signature.p7s
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.install.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.install.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.install.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.install.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.uninstall.xdt
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0.nupkg
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/install.ps1
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/uninstall.ps1
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CSharp.Core.targets
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.VisualBasic.Core.targets
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.AppContext.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Collections.Immutable.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Diagnostics.StackTrace.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.Primitives.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Reflection.Metadata.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CSharp.Core.targets
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Managed.Core.targets
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.AppContext.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Collections.Immutable.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Console.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.StackTrace.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Compression.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.AccessControl.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Reflection.Metadata.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.AccessControl.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Claims.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Principal.Windows.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Text.Encoding.CodePages.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.ValueTuple.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.ReaderWriter.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XmlDocument.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.XDocument.dll
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe.config
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.rsp
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe
-ISBM Adapter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe.config
-ISBM Adapter/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
-ISBM Adapter/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg
-ISBM Adapter/packages/Modernizr.2.8.3/Content/Scripts/modernizr-2.8.3.js
-ISBM Adapter/packages/Modernizr.2.8.3/Modernizr.2.8.3.nupkg
-ISBM Adapter/packages/Modernizr.2.8.3/Tools/common.ps1
-ISBM Adapter/packages/Modernizr.2.8.3/Tools/install.ps1
-ISBM Adapter/packages/Modernizr.2.8.3/Tools/uninstall.ps1
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/.signature.p7s
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net20/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net20/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net35/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net35/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net40/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net40/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net45/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/net45/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard1.0/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard1.0/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard1.3/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard1.3/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard2.0/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/netstandard2.0/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/LICENSE.md
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/Newtonsoft.Json.12.0.3.nupkg
-ISBM Adapter/packages/Newtonsoft.Json.12.0.3/packageIcon.png
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/.signature.p7s
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/LICENSE.TXT
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/System.Diagnostics.DiagnosticSource.4.5.1.nupkg
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/THIRD-PARTY-NOTICES.TXT
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/useSharedDesignerContext.txt
-ISBM Adapter/packages/System.Diagnostics.DiagnosticSource.4.5.1/version.txt
-ISBM Adapter/packages/WebGrease.1.6.0/lib/WebGrease.dll
-ISBM Adapter/packages/WebGrease.1.6.0/tools/WG.EXE
-ISBM Adapter/packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/.signature.p7s
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/content/app.config.install.xdt
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/content/web.config.install.xdt
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/lib/net462/Microsoft.ServiceBus.dll
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/lib/net462/Microsoft.ServiceBus.xml
-ISBM Adapter/packages/WindowsAzure.ServiceBus.6.0.1/WindowsAzure.ServiceBus.6.0.1.nupkg
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.csproj.CopyComplete
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.csproj.CoreCompileInputs.cache
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.csproj.FileListAbsolute.txt
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.csprojAssemblyReference.cache
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.dll
-ISBM Adapter/ISBM Adapter/obj/Debug/ISBM Adapter.pdb
-ISBM Adapter/ISBM Adapter/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-ISBM Adapter/ISBM Adapter/obj/Release/_WPPLastBuildInfo.txt
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.csproj.CopyComplete
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.csproj.CoreCompileInputs.cache
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.csproj.FileListAbsolute.txt
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.csprojAssemblyReference.cache
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.dll
-ISBM Adapter/ISBM Adapter/obj/Release/ISBM Adapter.pdb
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/HelpPage.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/_ViewStart.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Api.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Index.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/ResourceModel.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Shared/_Layout.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Web.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Antlr3.Runtime.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Antlr3.Runtime.pdb
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/ISBM Adapter.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/ISBM Adapter.pdb
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.Azure.Amqp.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.Azure.ServiceBus.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.Azure.Services.AppAuthentication.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.ServiceBus.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Microsoft.Web.Infrastructure.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Newtonsoft.Json.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csc.exe
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csc.exe.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csc.rsp
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csi.exe
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csi.exe.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/csi.rsp
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CSharp.Core.targets
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.Managed.Core.targets
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.VisualBasic.Core.targets
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.AppContext.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Collections.Immutable.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Console.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Diagnostics.StackTrace.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.IO.Compression.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.IO.FileSystem.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.IO.FileSystem.Primitives.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.IO.Pipes.AccessControl.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.IO.Pipes.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Reflection.Metadata.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.AccessControl.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Claims.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Cryptography.Encoding.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Cryptography.Primitives.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Security.Principal.Windows.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Text.Encoding.CodePages.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.ValueTuple.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Xml.ReaderWriter.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Xml.XmlDocument.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Xml.XPath.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/System.Xml.XPath.XDocument.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/vbc.exe
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/vbc.exe.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/vbc.rsp
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/VBCSCompiler.exe
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/roslyn/VBCSCompiler.exe.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Net.Http.Formatting.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Helpers.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Http.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Http.WebHost.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Mvc.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Optimization.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.Razor.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.Deployment.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.Razor.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/WebGrease.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap-theme.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap-theme.css.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap-theme.min.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap-theme.min.css.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap.css.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap.min.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/bootstrap.min.css.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Content/Site.css
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/favicon.ico
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.eot
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.svg
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.ttf
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.woff
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.woff2
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Global.asax
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/bootstrap.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/bootstrap.min.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.min.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.min.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.slim.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.slim.min.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/jquery-3.3.1.slim.min.map
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Scripts/modernizr-2.8.3.js
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Views/_ViewStart.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Views/Home/Index.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Views/Shared/_Layout.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Views/Shared/Error.cshtml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Views/Web.config
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/Web.config
-ISBM Adapter/ISBM Adapter/obj/Release/TransformWebConfig/assist/Web.config
-ISBM Adapter/ISBM Adapter/obj/Release/TransformWebConfig/original/Web.config
-ISBM Adapter/ISBM Adapter/obj/Release/TransformWebConfig/transformed/Web.config
-ISBM Adapter/ISBM Adapter/Properties/PublishProfiles/CustomProfile.pubxml
-ISBM Adapter/ISBM Adapter/Properties/PublishProfiles/CustomProfile.pubxml.user
-ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/ISBM Adapter/bin/System.Diagnostics.DiagnosticSource.xml
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/System.Diagnostics.DiagnosticSource.dll
-ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/storage.ide-shm
-ISBM Adapter/.vs/ISBM Adapter/v16/Server/sqlite3/storage.ide-wal
-
-ISBM Adapter/ISBM Adapter/Web.config
-ISBM Adapter/ISBM Adapter/Web.config
-ISBM Adapter/ISBM Adapter/Web.config
-ISBM Adapter/ISBM Adapter/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
-ISBM Adapter/ISBM Adapter/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/Swashbuckle.Core.dll
-ISBM Adapter/ISBM Adapter/obj/Release/Package/PackageTmp/bin/WebActivatorEx.dll
-ISBM Adapter/packages/Swashbuckle.5.6.0/.signature.p7s
-ISBM Adapter/packages/Swashbuckle.5.6.0/Content/App_Start/SwaggerConfig.cs.pp
-ISBM Adapter/packages/Swashbuckle.5.6.0/Swashbuckle.5.6.0.nupkg
-ISBM Adapter/packages/Swashbuckle.Core.5.6.0/.signature.p7s
-ISBM Adapter/packages/Swashbuckle.Core.5.6.0/lib/net40/Swashbuckle.Core.dll
-ISBM Adapter/packages/Swashbuckle.Core.5.6.0/Swashbuckle.Core.5.6.0.nupkg
-ISBM Adapter/packages/WebActivatorEx.2.0/.signature.p7s
-ISBM Adapter/packages/WebActivatorEx.2.0/lib/net40/WebActivatorEx.dll
-ISBM Adapter/packages/WebActivatorEx.2.0/WebActivatorEx.2.0.nupkg
-ISBM Adapter/ISBM Adapter/bin/Swashbuckle.Core.dll
-ISBM Adapter/ISBM Adapter/bin/WebActivatorEx.dll
+ISBM20ServerAdapter/.vs/ISBM20ServerAdapter/config/applicationhost.config
+ISBM20ServerAdapter/.vs/ISBM20ServerAdapter/FileContentIndex/79e20348-075d-4fae-a066-8c8f8b4825f9.vsidx
+ISBM20ServerAdapter/.vs/ISBM20ServerAdapter/v16/.suo
+ISBM20ServerAdapter/.vs/ISBM20ServerAdapter/v17/.suo
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Antlr3.Runtime.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Antlr3.Runtime.pdb
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/ISBM Adapter.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/ISBM Adapter.dll.config
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/ISBM Adapter.pdb
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.Azure.ServiceBus.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.Azure.Services.AppAuthentication.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.Azure.Services.AppAuthentication.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.ServiceBus.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.ServiceBus.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Microsoft.Web.Infrastructure.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Newtonsoft.Json.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Newtonsoft.Json.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csc.exe
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csc.exe.config
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csc.rsp
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csi.exe
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csi.exe.config
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/csi.rsp
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CodeAnalysis.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.CSharp.Core.targets
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.Managed.Core.targets
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/Microsoft.VisualBasic.Core.targets
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.AppContext.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Collections.Immutable.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Console.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Diagnostics.StackTrace.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.IO.Compression.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.IO.FileSystem.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.IO.FileSystem.Primitives.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.IO.Pipes.AccessControl.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.IO.Pipes.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Reflection.Metadata.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.AccessControl.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Claims.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Cryptography.Encoding.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Cryptography.Primitives.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Security.Principal.Windows.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Text.Encoding.CodePages.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.ValueTuple.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Xml.ReaderWriter.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Xml.XmlDocument.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Xml.XPath.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/System.Xml.XPath.XDocument.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/vbc.exe
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/vbc.exe.config
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/vbc.rsp
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/VBCSCompiler.exe
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/roslyn/VBCSCompiler.exe.config
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/Swashbuckle.Core.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Net.Http.Formatting.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Net.Http.Formatting.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Helpers.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Helpers.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Http.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Http.WebHost.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Http.WebHost.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Http.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Mvc.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Mvc.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Optimization.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Optimization.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Razor.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.Razor.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.Deployment.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.Deployment.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.Razor.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.Razor.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/System.Web.WebPages.xml
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/WebActivatorEx.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/bin/WebGrease.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM Adapter.dll
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM Adapter.pdb
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM20ServerAdapter.csproj.AssemblyReference.cache
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM20ServerAdapter.csproj.CopyComplete
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM20ServerAdapter.csproj.CoreCompileInputs.cache
+ISBM20ServerAdapter/ISBM20ServerAdapter/obj/Debug/ISBM20ServerAdapter.csproj.FileListAbsolute.txt
+ISBM20ServerAdapter/Packages/Antlr.3.5.0.2/Antlr.3.5.0.2.nupkg
+ISBM20ServerAdapter/Packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll
+ISBM20ServerAdapter/Packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.pdb
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/.signature.p7s
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/bootstrap.3.4.1.nupkg
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap.min.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Content/bootstrap.min.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.eot
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.svg
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.ttf
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff2
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Scripts/bootstrap.js
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/content/Scripts/bootstrap.min.js
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css.map
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.eot
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.svg
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.ttf
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff2
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.js
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.min.js
+ISBM20ServerAdapter/Packages/bootstrap.3.4.1/LICENSE.txt
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1-vsdoc.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.map
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.map
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/jQuery.3.3.1.nupkg
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Tools/common.ps1
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Tools/install.ps1
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Tools/jquery-3.3.1.intellisense.js
+ISBM20ServerAdapter/Packages/jQuery.3.3.1/Tools/uninstall.ps1
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Mvc.5.2.7/Microsoft.AspNet.Mvc.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Razor.3.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Razor.3.2.7/Microsoft.AspNet.Razor.3.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.5.2.7/Microsoft.AspNet.WebApi.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Client.5.2.7/Microsoft.AspNet.WebApi.Client.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Core.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Core.5.2.7/Content/web.config.transform
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.Core.5.2.7/Microsoft.AspNet.WebApi.Core.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ApiDescriptionExtensions.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/App_Start/HelpPageConfig.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Controllers/HelpController.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPage.css.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPageAreaRegistration.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/HelpPageConfigurationExtensions.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/CollectionModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ComplexTypeModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/DictionaryModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/EnumTypeModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/EnumValueDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/IModelDocumentationProvider.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/KeyValuePairModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelDescriptionGenerator.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelNameAttribute.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ModelNameHelper.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ParameterAnnotation.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/ParameterDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/ModelDescriptions/SimpleTypeModelDescription.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Models/HelpPageApiModel.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleGenerator.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/HelpPageSampleKey.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/ImageSample.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/InvalidSample.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/ObjectGenerator.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/SampleDirection.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/SampleGeneration/TextSample.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/_ViewStart.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/Api.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/Index.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Help/ResourceModel.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Shared/_Layout.cshtml.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/Views/Web.config
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Content/Areas/HelpPage/XmlDocumentationProvider.cs.pp
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.HelpPage.5.2.7/Microsoft.AspNet.WebApi.HelpPage.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/lib/net45/System.Web.Http.WebHost.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/lib/net45/System.Web.Http.WebHost.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebApi.WebHost.5.2.7/Microsoft.AspNet.WebApi.WebHost.5.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.dll
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.xml
+ISBM20ServerAdapter/Packages/Microsoft.AspNet.WebPages.3.2.7/Microsoft.AspNet.WebPages.3.2.7.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/monoandroid/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/net45/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/netstandard1.3/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/uap10.0/Microsoft.Azure.Amqp.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/lib/uap10.0/Microsoft.Azure.Amqp.pri
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Amqp.2.4.2/Microsoft.Azure.Amqp.2.4.2.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.Azure.ServiceBus.4.1.1/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.Azure.ServiceBus.4.1.1/lib/netstandard2.0/Microsoft.Azure.ServiceBus.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.ServiceBus.4.1.1/Microsoft.Azure.ServiceBus.4.1.1.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.Azure.ServiceBus.4.1.1/pkgicon.png
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/build/Microsoft.Azure.Services.AppAuthentication.targets
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.runtimeconfig.json
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/net452/Microsoft.Azure.Services.AppAuthentication.xml
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.dll
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.runtimeconfig.json
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.xml
+ISBM20ServerAdapter/Packages/Microsoft.Azure.Services.AppAuthentication.1.0.3/Microsoft.Azure.Services.AppAuthentication.1.0.3.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/.signature.p7s
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.install.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.uninstall.xdt
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0.nupkg
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/install.ps1
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/uninstall.ps1
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CSharp.Core.targets
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.VisualBasic.Core.targets
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.AppContext.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Collections.Immutable.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Diagnostics.StackTrace.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.Primitives.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Reflection.Metadata.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CSharp.Core.targets
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Managed.Core.targets
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.AppContext.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Collections.Immutable.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Console.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.StackTrace.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Compression.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.AccessControl.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Reflection.Metadata.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.AccessControl.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Claims.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Principal.Windows.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Text.Encoding.CodePages.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.ValueTuple.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.ReaderWriter.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XmlDocument.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.XDocument.dll
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.rsp
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe
+ISBM20ServerAdapter/Packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe.config
+ISBM20ServerAdapter/Packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
+ISBM20ServerAdapter/Packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+ISBM20ServerAdapter/Packages/Modernizr.2.8.3/Content/Scripts/modernizr-2.8.3.js
+ISBM20ServerAdapter/Packages/Modernizr.2.8.3/Modernizr.2.8.3.nupkg
+ISBM20ServerAdapter/Packages/Modernizr.2.8.3/Tools/common.ps1
+ISBM20ServerAdapter/Packages/Modernizr.2.8.3/Tools/install.ps1
+ISBM20ServerAdapter/Packages/Modernizr.2.8.3/Tools/uninstall.ps1
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/.signature.p7s
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net20/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net20/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net35/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net35/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net40/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net40/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net45/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/net45/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard1.0/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard1.0/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard1.3/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard1.3/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard2.0/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/netstandard2.0/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/LICENSE.md
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/Newtonsoft.Json.12.0.3.nupkg
+ISBM20ServerAdapter/Packages/Newtonsoft.Json.12.0.3/packageIcon.png
+ISBM20ServerAdapter/Packages/Swashbuckle.5.6.0/.signature.p7s
+ISBM20ServerAdapter/Packages/Swashbuckle.5.6.0/Content/App_Start/SwaggerConfig.cs.pp
+ISBM20ServerAdapter/Packages/Swashbuckle.5.6.0/Swashbuckle.5.6.0.nupkg
+ISBM20ServerAdapter/Packages/Swashbuckle.Core.5.6.0/.signature.p7s
+ISBM20ServerAdapter/Packages/Swashbuckle.Core.5.6.0/lib/net40/Swashbuckle.Core.dll
+ISBM20ServerAdapter/Packages/Swashbuckle.Core.5.6.0/Swashbuckle.Core.5.6.0.nupkg
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/.signature.p7s
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/LICENSE.TXT
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/System.Diagnostics.DiagnosticSource.4.5.1.nupkg
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/THIRD-PARTY-NOTICES.TXT
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/useSharedDesignerContext.txt
+ISBM20ServerAdapter/Packages/System.Diagnostics.DiagnosticSource.4.5.1/version.txt
+ISBM20ServerAdapter/Packages/WebActivatorEx.2.0/.signature.p7s
+ISBM20ServerAdapter/Packages/WebActivatorEx.2.0/lib/net40/WebActivatorEx.dll
+ISBM20ServerAdapter/Packages/WebActivatorEx.2.0/WebActivatorEx.2.0.nupkg
+ISBM20ServerAdapter/Packages/WebGrease.1.6.0/lib/WebGrease.dll
+ISBM20ServerAdapter/Packages/WebGrease.1.6.0/tools/WG.EXE
+ISBM20ServerAdapter/Packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/.signature.p7s
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/content/app.config.install.xdt
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/content/web.config.install.xdt
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/lib/net462/Microsoft.ServiceBus.dll
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/lib/net462/Microsoft.ServiceBus.xml
+ISBM20ServerAdapter/Packages/WindowsAzure.ServiceBus.6.0.1/WindowsAzure.ServiceBus.6.0.1.nupkg

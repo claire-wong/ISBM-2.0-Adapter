@@ -169,6 +169,17 @@ namespace ISBM_Adapter.Processes
                         string sessionUUID = Guid.NewGuid().ToString();
                         string channelUUID = channelDataset.Tables[0].Rows[0]["Channel_UUID"].ToString();
 
+                        // Get Azure Bus SAS token string from Web.Config
+                        string ServiceBusConnectionString = ConfigurationManager.ConnectionStrings["AzureBus"].ConnectionString;
+                        // Create a new Azure Management
+                        AzureManagement myAzureManagement = new AzureManagement();
+                        // Check if Azure Bus topic exists in the form of UUID corresponding to channel record
+                        // ISBM channels are mapped to Azure Bus topics
+                        if (myAzureManagement.TopicExists(ServiceBusConnectionString, channelUUID) == false)
+                        {
+                            myAzureManagement.CreateTopic(ServiceBusConnectionString, channelUUID);
+                        }
+
                         // SQL Statement to create the new session on database 
                         sqlStatement = "Insert into Sessions (Session_UUID, Channel_UUID, Channel_Type, Subscribed_By, Status) values ('" + sessionUUID + "', '" + channelUUID + "', '" + channelType + "', '" + subscribedBy + "', '" + status + "')";
                         myDatabaseHandler.Insert(sqlStatement);
@@ -274,8 +285,13 @@ namespace ISBM_Adapter.Processes
                         string ServiceBusConnectionString = ConfigurationManager.ConnectionStrings["AzureBus"].ConnectionString;
                         // Create a new Azure Management
                         AzureManagement myAzureManagement = new AzureManagement();
-                        // Create an Azure Bus topic subscription in the form of UUID corresponding to channel record
+                        // Check if Azure Bus topic exists in the form of UUID corresponding to channel record
                         // ISBM channels are mapped to Azure Bus topics
+                        if (myAzureManagement.TopicExists(ServiceBusConnectionString, channelUUID) == false)
+                        {
+                            myAzureManagement.CreateTopic(ServiceBusConnectionString, channelUUID);
+                        }
+                        // Create an Azure Bus topic subscription in the form of UUID corresponding to channel record
                         myAzureManagement.CreateTopicSubscriptions(ServiceBusConnectionString, channelUUID, sessionUUID);
 
                         // Set HTTP status code and reason phrase
