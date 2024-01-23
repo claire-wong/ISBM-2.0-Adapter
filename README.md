@@ -1,6 +1,6 @@
 # ISBM-2.0-Server-Adapter
 
-Proof of concept using open standards to create a universal server adapter to handle service bus communication using ISBM 2.0. 
+This is one of the three-part series of proof-of-concept projects with the primary objective of constructing an interoperable IoT information cluster. The focus is on utilizing non-proprietary Open Industrial Interoperability Ecosystem (OIIE) open standards. Each project within this series explores key facets of building a cohesive and scalable IoT infrastructure, demonstrating the potential of OIIE standards in promoting interoperability in the interconnect world.
 
 ### Objectives
 
