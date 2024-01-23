@@ -4,6 +4,8 @@ This is one of the three-part series of proof-of-concept projects with the prima
 
 ![image](/Documents/Images/IoT-Demo.jpg)
 
+Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
+
 ### Objectives
 
 To build a messaging adapter allows all the Iot devices to send and receive messages just using the ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
