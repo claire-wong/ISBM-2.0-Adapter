@@ -8,11 +8,13 @@ Included in this three-part series are ISBM-Publication-Provider and ISBM-Public
 
 ### Objectives
 
-To build a messaging adapter allows all the Iot devices to send and receive messages just using the ISBM 2.0 interface. The standardized measured data in the message will be structured in CCOM format. All devices do not need to know any specific knowledge of the service bus. The measured data will be in a predictable structure with all the necessary information to interpret the data. In this case, I use Microsoft Azure Bus to deliver device messages internally.
+To create an ISA-95 Message Service Model (ISBM 2.0) messaging adapter that enables all IoT devices to send and receive messages using the ISBM 2.0 interface. None of the devices need to possess specific knowledge or interface for the proprietary message bus. The measured data in the OAGIS BOD message will be structured in CCOM format. The BOD message will be published in an interoperable manner, both at the transport and message levels, providing all necessary information to interpret the data. In this case, Microsoft Azure Bus is employed to internally deliver device messages, confirming the feasibility of transforming a proprietary messaging system to behave in an interoperable manner.
+
+![image](/Documents/Images/IoT-Demo-ISBM-Server-Adapter.jpg)
 
 ### Project Information
 
-#### Version 0.1
+#### Version 0.2
 
 #### Tools
      1.  Visual Studio 2019 Community
@@ -25,7 +27,7 @@ To build a messaging adapter allows all the Iot devices to send and receive mess
      1.  .Net Framework 4.7.2
      2.  Microsoft.ServiveBus v4.0.30319 @
      3.  Microsoft.Azure.ServiceBus v4.0.30319 @
-     4.  NewtonSoft v4.0.30319 @
+     4.  NewtonSoft v12.0.3 @
      5.  Swashbukle.Core v4.0.30319 @
  
 @ NuGet Packages
