@@ -16,7 +16,10 @@ To create an ISA-95 Message Service Model (ISBM 2.0) messaging adapter that enab
 
 #### Version 0.2
 
-     
+A proof-of-concept project implemented only the essential interface and features to support this demo. There is no channel security in this demo, as it is intended only for running on a local computer or devices within a local area network. 
+
+Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own channel: http://yourlocalhost/swagger. A default channel "/services/general/publication" is included in the distributed database for this demo.
+
 #### Implemented ISA-95 ISBM 2.0 RESTful Interface
      
      5.2 Channel Management Service
