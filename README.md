@@ -16,6 +16,23 @@ To create an ISA-95 Message Service Model (ISBM 2.0) messaging adapter that enab
 
 #### Version 0.2
 
+     
+#### Implemented ISA-95 ISBM 2.0 RESTful Interface
+     
+     5.2 Channel Management Service
+         5.2.1 Create Channel 
+         5.2.4 Delete Channel
+         5.2.6 Get Channels
+     5.4 Provider Publication Service
+         5.4.1 Open Publication Session
+         5.4.2 Post Publication
+         5.4.4 Close Publication Session  
+     5.5 Consumer Publication Service
+         5.5.1 Open Subscription Session
+         5.5.2 Read Publication
+         5.5.3 Remove Publication
+         5.5.4 Close Subscription Session
+         
 #### Tools
      1.  Visual Studio 2019 Community
      2.  Microsoft SQL Server Express 2017
