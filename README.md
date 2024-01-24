@@ -37,8 +37,8 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
          5.5.4 Close Subscription Session
          
 #### Tools
-     1.  Visual Studio 2019 Community
-     2.  Microsoft SQL Server Express 2017
+     1.  Visual Studio 2022 Community
+     2.  Microsoft SQL Server Express 2022
      3.  SQL Server Management Studio
      4.  Microsoft Azure Service Bus
      5.  My brain's limited knowledge lol
