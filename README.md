@@ -58,12 +58,16 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
      5.  Swashbukle.Core v4.0.30319 @
  
 @ NuGet Packages
-
+ 
 ### Useful Links
 
-http://www.openoandm.org/files/standards/ISBM-2.0.pdf
+#### Standard Organizations
+   1. [OpenO&M](https://openoandm.org/)
+   2. [MIMOSA](https://www.mimosa.org/)
+   3. [International Society of Automation](https://www.isa.org/)
+   4. [OAGi](https://oagi.org/)
 
-https://www.mimosa.org/mimosa-ccom/
+
 
 https://visualstudio.microsoft.com/downloads/
 
