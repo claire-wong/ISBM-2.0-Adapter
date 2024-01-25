@@ -6,13 +6,14 @@ This is one of the three-part series of proof-of-concept projects with the prima
 
 Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
 
-## Title
-
-### Place 1
+### Title
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
 
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 ### Objectives
 
@@ -60,9 +61,7 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
  
 @ NuGet Packages
 
-### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 ### Place's 3: other example
 
