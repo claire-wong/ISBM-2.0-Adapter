@@ -46,7 +46,7 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
 #### Tools
      1.  Visual Studio 2022 Community
      2.  Microsoft SQL Server Express 2022
-     3.  SQL Server Management Studio
+     3.  SQL Server Management Studio 19.3
      4.  Microsoft Azure Service Bus
      5.  My brain's limited knowledge lol
      
@@ -67,17 +67,11 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
    3. [International Society of Automation](https://www.isa.org/)
    4. [OAGi](https://oagi.org/)
 
-
-
-https://visualstudio.microsoft.com/downloads/
-
-* I use a $10/month Standard Azure Service Bus subscription.
-
-https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal
-
-https://www.microsoft.com/en-us/download/details.aspx?id=55994
-
-https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+#### Development Tools
+   1. [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+   2. [Azure Service Bus Quick Guide](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal)
+   3. [Microsoft® SQL Server® 2022 Express](https://www.microsoft.com/en-gb/download/details.aspx?id=104781)
+   4. [SQL Server Management Studio (SSMS) 19.3](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
 
 ### Quick Reference
 
