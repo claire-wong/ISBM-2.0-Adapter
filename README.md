@@ -3,8 +3,7 @@
 This is one of the three-part series of proof-of-concept projects with the primary objective of constructing an interoperable IoT information cluster. The focus is on utilizing non-proprietary Open Industrial Interoperability Ecosystem (OIIE) open standards. Each project within this series explores key facets of building a cohesive and scalable IoT infrastructure, demonstrating the potential of OIIE standards in promoting interoperability in the interconnect world.
 
 ![image](/Documents/Images/IoT-Demo.jpg)
-
-Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
+Figure 1.  The summary of the IoT demo using OIIE standards. Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
 
 ### Contents
   
@@ -18,6 +17,7 @@ Included in this three-part series are ISBM-Publication-Provider and ISBM-Public
 To create an ISA-95 Message Service Model (ISBM 2.0) messaging adapter that enables all IoT devices to send and receive messages using the ISBM 2.0 interface. None of the devices need to possess specific knowledge or interface for the proprietary message bus. The measured data in the OAGIS BOD message will be structured in CCOM format. The BOD message will be published in an interoperable manner, both at the transport and message levels, providing all necessary information to interpret the data. In this case, Microsoft Azure Bus is employed to internally deliver device messages, confirming the feasibility of transforming a proprietary messaging system to behave in an interoperable manner.
 
 ![image](/Documents/Images/IoT-Demo-ISBM-Server-Adapter.jpg)
+Figure 2.  This project focuses on the ISBM Server Adapter, which transforms the Azure Service Bus to become an OIIE interoperable message system.
 
 ### Project Information
 
@@ -76,3 +76,11 @@ https://www.microsoft.com/en-us/download/details.aspx?id=55994
 https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 
 ### Quick Reference
+
+    1.  OIIE - OpenO&M Open Industrial Interoperability Ecosystem
+    2.  ISBM - International Society of Automation ISA-95 Message Service Model
+    3.  CCOM - MIMOSA Common Conceptual Object Model
+    4.  BOD - OAGIS Business object document
+
+    This site was built using [OAGIS Business object document](https://pages.github.com/).
+
