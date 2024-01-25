@@ -6,10 +6,12 @@ This is one of the three-part series of proof-of-concept projects with the prima
 
 Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
 
-### Title
+### Contents
 
-Hello, this is some text to fill in this, [here](#Objectives), is a link to the second place.
+  
+1. [Objectives](#Objectives)
 
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
 ### Place 2
 
