@@ -6,6 +6,14 @@ This is one of the three-part series of proof-of-concept projects with the prima
 
 Included in this three-part series are ISBM-Publication-Provider and ISBM-Publication-Consumer, hosted in their respective repositories.
 
+## Title
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+
+
 ### Objectives
 
 To create an ISA-95 Message Service Model (ISBM 2.0) messaging adapter that enables all IoT devices to send and receive messages using the ISBM 2.0 interface. None of the devices need to possess specific knowledge or interface for the proprietary message bus. The measured data in the OAGIS BOD message will be structured in CCOM format. The BOD message will be published in an interoperable manner, both at the transport and message levels, providing all necessary information to interpret the data. In this case, Microsoft Azure Bus is employed to internally deliver device messages, confirming the feasibility of transforming a proprietary messaging system to behave in an interoperable manner.
@@ -51,6 +59,16 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
      5.  Swashbukle.Core v4.0.30319 @
  
 @ NuGet Packages
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
+
+
 
 ### Useful Links
 
