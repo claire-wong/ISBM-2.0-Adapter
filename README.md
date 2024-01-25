@@ -77,6 +77,12 @@ https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-
 
 ### Quick Reference
 
+   1. [Objectives](#Objectives)
+   2. [Project Information](#Project-Information)
+   3. [Useful Links](#Useful-Links)
+   4. BOD - [OAGIS Business Object Document](https://www.oagidocs.org/docs/)
+
+  
     1.  OIIE - OpenO&M Open Industrial Interoperability Ecosystem
     2.  ISBM - International Society of Automation ISA-95 Message Service Model
     3.  CCOM - MIMOSA Common Conceptual Object Model
