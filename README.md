@@ -9,9 +9,9 @@ Included in this three-part series are ISBM-Publication-Provider and ISBM-Public
 ### Contents
 
   
-1. [Objectives](#Objectives)
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+   1. [Objectives](#Objectives)
+   2. [Project Information](#Project-Information)
+   1. [here](#place-2), is a link to the second place.
 
 ### Place 2
 
