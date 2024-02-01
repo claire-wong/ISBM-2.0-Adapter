@@ -62,11 +62,14 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
 
 ### Before Running the Program
 
+Make sure configurations are set properly in the Configs.json
+```xml
 <configuration>
   <connectionStrings>
     <add name="ISBMAdapter" connectionString="Data Source=YourSQLServer;Initial Catalog=YourDatabase;User ID=YourUserID;Password=YourPassword" providerName="System.Data.SqlClient" />
     <add name="AzureBus" connectionString="YourAzureBusSAS" />
   </connectionStrings>
+```
 
 ### Useful Links
 
