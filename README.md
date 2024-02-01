@@ -9,8 +9,9 @@ Figure 1.  The summary of the IoT demo using OIIE standards. Included in this th
   
    1. [Objectives](#Objectives)
    2. [Project Information](#Project-Information)
-   3. [Useful Links](#Useful-Links)
-   4. [Quick Reference](#Quick-Reference)
+   3. [Before Running the Program](#Before-Running-the-Program)
+   4. [Useful Links](#Useful-Links)
+   5. [Quick Reference](#Quick-Reference)
   
 ### Objectives
 
@@ -23,7 +24,7 @@ Figure 2.  This project focuses on the ISBM Server Adapter, which transforms the
 
 #### Version 0.2
 
-A proof-of-concept project implemented only the essential interface and features to support this demo. There is no channel security in this demo, as it is intended only for running on a local computer or devices within a local area network. 
+A proof-of-concept project implemented only the essential interface and features to support this demo. There is no channel security in this demo, and it only supports a single topic when opening the Subscription Session. It is intended for running only on a local computer or devices within a local area network.
 
 Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own channel: http://yourlocalhost/swagger. A default channel "/services/general/publication" is included in the distributed database for this demo.
 
@@ -58,7 +59,15 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
      5.  Swashbukle.Core v4.0.30319 @
  
 @ NuGet Packages
- 
+
+### Before Running the Program
+
+<configuration>
+  <connectionStrings>
+    <add name="ISBMAdapter" connectionString="Data Source=YourSQLServer;Initial Catalog=YourDatabase;User ID=YourUserID;Password=YourPassword" providerName="System.Data.SqlClient" />
+    <add name="AzureBus" connectionString="YourAzureBusSAS" />
+  </connectionStrings>
+
 ### Useful Links
 
 #### Standard Organizations
