@@ -62,7 +62,7 @@ Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own
 
 ### Before Running the Program
 
-Make sure configurations are set properly in the Configs.json
+Make sure configurations are set properly in the Web.config
 ```xml
 <configuration>
   <connectionStrings>
@@ -70,6 +70,9 @@ Make sure configurations are set properly in the Configs.json
     <add name="AzureBus" connectionString="YourAzureBusSAS" />
   </connectionStrings>
 ```
+
+1. The ISBMAdapter is the configuration for your SQL Server. Please enter the SQL Server connection string information properly.
+2. The AzureBus configuration is for your Azure Service Bus. Please enter your Primary or Secondary Connection string for your RootManageSharedAccessKey under Shared access policies correctly.
 
 ### Useful Links
 
