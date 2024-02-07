@@ -24,7 +24,7 @@ Figure 2.  This project focuses on the ISBM Server Adapter, which transforms the
 
 #### Version 0.2
 
-A proof-of-concept project implemented only the essential interface and features to support this demo. There is no channel security in this demo, and it only supports a single topic when opening the Subscription Session. It is intended for running only on a local computer or devices within a local area network.
+This proof-of-concept project implements only the essential interface and features for Publication to support this demo. The demo lacks channel security and only supports a single topic when opening the Subscription Session. It is intended to run solely on a local computer or devices within a local area network.
 
 Utilize the Swashbuckle page included in the ISBM 2.0 Adapter to create your own channel: http://yourlocalhost/swagger. A default channel "/services/general/publication" is included in the distributed database for this demo.
 
